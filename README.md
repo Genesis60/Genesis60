@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Genesis60
+- 👋 Hi, I’m @Genesis97-git
 - 👀 I’m interested in AI, ML, Data-visualization and OSINT.
 - 🌱 I’m currently learning applications of aforementioned studies in marketing and social sciences.
 - 💞️ I’m looking to collaborate on ...
